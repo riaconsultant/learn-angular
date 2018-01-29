@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
+* [Let's Start](chapter1.md)
 * [Node and NPM Concept](node-and-npm-concept.md)
 * [Angular CLI](angular-cli.md)
 * [Angular Bootstrap](angular-bootstrap.md)
