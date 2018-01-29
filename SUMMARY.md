@@ -4,19 +4,22 @@
 * [First Chapter](chapter1.md)
 * [Node and NPM Concept](node-and-npm-concept.md)
 * [Angular CLI](angular-cli.md)
+* [Angular Bootstrap](angular-bootstrap.md)
 * Angular Environment Setup
 * [Angular Hello World](angular-hello-world.md)
 * [Angular Router](angular-router.md)
-* Angular NgForm and Validation
-* Angular Events
-* Angular Reactive Forms
-* Angular Animation and Style
-* Angular Bootstrap
-* Angular with Bootstrap CSS
-* Rxjs  
-* Angular TypeScript
-* Angular HttpClient
-* Angular Localization
-* Angular Lazy Loading
-* Angular Best Practice
+* [Angular Router Resolver](angular-router-resolver.md)
+* [Angular Router Event](angular-router-event.md)
+* [Angular NgForm and Validation](angular-ngform-and-validation.md)
+* [Angular Events](angular-events.md)
+* [Angular Reactive Forms](angular-reactive-forms.md)
+* [Angular Bootstrap](angular-bootstrap.md)
+* [Angular with Bootstrap CSS](angular-with-bootstrap-css.md)
+* [Rxjs  ](rxjs.md)
+* [Angular TypeScript](angular-typescript.md)
+* [Angular HttpClient](angular-httpclient.md)
+* [Angular Localization](angular-localization.md)
+* [Angular Lazy Loading](angular-lazy-loading.md)
+* [Angular Router Event](angular-router-event.md)
+* [Angular Best Practice](angular-best-practice.md)
 
