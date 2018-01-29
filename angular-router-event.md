@@ -1,4 +1,4 @@
-# Angular Router Event
+# Angular Component Communication
 
 
 
