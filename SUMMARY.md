@@ -13,14 +13,12 @@
 * Angular Animation and Style
 * Angular Bootstrap
 * Angular with Bootstrap CSS
-* Rxjs
+* Rxjs  
 * Angular TypeScript
 * Angular HttpClient
 * Angular Localization
 * Angular Lazy Loading
 * Angular Best Practice
-
-
 
 
 
