@@ -5,7 +5,7 @@
 * [Node and NPM Concept](node-and-npm-concept.md)
 * [Angular CLI](angular-cli.md)
 * [Angular Bootstrap](angular-bootstrap.md)
-* Angular Environment Setup
+* [Angular Environment Setup](angular-environment-setup.md)
 * [Angular Hello World](angular-hello-world.md)
 * [Angular Router](angular-router.md)
 * [Angular Router Resolver](angular-router-resolver.md)
