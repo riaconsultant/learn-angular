@@ -16,7 +16,7 @@
 * [Angular NgForm and Validation](angular-ngform-and-validation.md)
 * [Angular Events](angular-events.md)
 * [Angular Reactive Forms](angular-reactive-forms.md)
-* [Angular Directives](angular-bootstrap.md)
+* [Angular Directives](angular-directives.md)
 * [Angular Component](angular-component.md)
 * [Angular Component Communication](angular-router-event.md)
 * [Angular with Bootstrap CSS](angular-with-bootstrap-css.md)
