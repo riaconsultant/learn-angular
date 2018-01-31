@@ -13,7 +13,7 @@
 * [Angular Router](angular-router.md)
 * [Angular Router Resolver](angular-router-resolver.md)
 * [Angular Router Event](angular-router-event.md)
-* Router Guard
+* [Router Guard](router-guard.md)
 * [Angular NgForm and Validation](angular-ngform-and-validation.md)
 * [Angular Events](angular-events.md)
 * [Angular Reactive Forms](angular-reactive-forms.md)
