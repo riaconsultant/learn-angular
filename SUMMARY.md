@@ -36,7 +36,7 @@
 * [View Children and Content Children](view-children-and-content-children.md)
 * [@ViewInit and @Content life Cycle](viewinit-and-content-life-cycle.md)
 * [Dynamic Component Creation](dynamic-component-creation.md)
-* Shared Modules
+* [Shared Modules](shared-modules.md)
 * Featured Modules
 * Update Angular 4 to Angular 5
 * Dynamic Title and MetaTag
