@@ -29,7 +29,7 @@
 * [Reactive Programming Rxjs](reactive-programming-rxjs.md)
 * [Architecture](architecture.md)
 * [Dependency Injection & Providers](dependency-injection-and-providers.md)
-* Karma - Unit Testing
+* [Karma - Unit Testing](karma-unit-testing.md)
 * Templates and Data Binding
 * Parent-Child Communication
 * Host Binding and Attribute Directives
