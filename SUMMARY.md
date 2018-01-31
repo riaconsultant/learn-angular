@@ -30,7 +30,7 @@
 * [Architecture](architecture.md)
 * [Dependency Injection & Providers](dependency-injection-and-providers.md)
 * [Karma - Unit Testing](karma-unit-testing.md)
-* Templates and Data Binding
+* [Templates and Data Binding](templates-and-data-binding.md)
 * Parent-Child Communication
 * Host Binding and Attribute Directives
 * View Children and Content Children
