@@ -31,7 +31,7 @@
 * [Dependency Injection & Providers](dependency-injection-and-providers.md)
 * [Karma - Unit Testing](karma-unit-testing.md)
 * [Templates and Data Binding](templates-and-data-binding.md)
-* Parent-Child Communication
+* [Parent-Child Communication](parent-child-communication.md)
 * Host Binding and Attribute Directives
 * View Children and Content Children
 * @ViewInit and @Content life Cycle
