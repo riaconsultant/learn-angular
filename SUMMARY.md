@@ -26,6 +26,7 @@
 * [Angular Directives](angular-directives.md)
 * [Built-In Directives](built-in-directives.md)
 * [Custom Directives](custom-directives.md)
+* [Angular Decorator](angular-docorator.md)
 * [Angular Component](angular-component.md)
 * [Angular Component Communication](angular-component-communication.md)
 * [Angular Events and Binding](angular-events.md)
