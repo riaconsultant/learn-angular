@@ -37,7 +37,7 @@
 * [@ViewInit and @Content life Cycle](viewinit-and-content-life-cycle.md)
 * [Dynamic Component Creation](dynamic-component-creation.md)
 * [Shared Modules](shared-modules.md)
-* Featured Modules
+* [Featured Modules](featured-modules.md)
 * Update Angular 4 to Angular 5
 * Dynamic Title and MetaTag
 * Angular Build Optimizer Techniques
