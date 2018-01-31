@@ -26,9 +26,9 @@
 * [ES6](es6.md)
 * [Built-In Directives](built-in-directives.md)
 * [Custom Directives](custom-directives.md)
-* Reactive Programming Rxjs
-* Architecture
-* Dependency Injection & Providers
+* [Reactive Programming Rxjs](reactive-programming-rxjs.md)
+* [Architecture](architecture.md)
+* [Dependency Injection & Providers](dependency-injection-and-providers.md)
 * Karma - Unit Testing
 * Templates and Data Binding
 * Parent-Child Communication
