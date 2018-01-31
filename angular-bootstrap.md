@@ -1,6 +1,4 @@
-# Angular Directives
-
-
+# Angular Bootstrap
 
 
 
