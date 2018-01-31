@@ -23,4 +23,24 @@
 * [Angular Localization](angular-localization.md)
 * [Angular Lazy Loading](angular-lazy-loading.md)
 * [Angular Best Practice](angular-best-practice.md)
+* ES6
+* Built-In Directives
+* Custom Directives
+* Reactive Programming Rxjs
+* Built-In Pipe and Custom Pipe
+* Dependency Injection & Providers
+* Karma - Unit Testing
+* Templates and Data Binding
+* Parent-Child Communication
+* Host Binding and Attribute Directives
+* View Children and Content Children
+* @ViewInit and @Content life Cycle
+* Dynamic Component Creation
+* Architecture
+* Shared Modules
+* Featured Modules
+* Update Angular 4 to Angular 5
+* Router Guard
+* Dynamic Title and MetaTag
+* Angular Build Optimizer Techniques
 
