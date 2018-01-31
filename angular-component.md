@@ -1,4 +1,1 @@
 # Angular Component
-
-
-
