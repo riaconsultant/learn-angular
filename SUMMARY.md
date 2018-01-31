@@ -6,7 +6,7 @@
 * [Angular CLI](angular-cli.md)
 * [Angular Bootstrap](angular-bootstrap.md)
 * [Angular Environment Setup](angular-environment-setup.md)
-* Architecture
+* [Architecture](architecture.md)
 * [Angular Hello World](angular-hello-world.md)
 * [ES6](es6.md)
 * [Angular TypeScript](angular-typescript.md)
