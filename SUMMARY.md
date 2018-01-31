@@ -35,7 +35,7 @@
 * [Host Binding and Attribute Directives](host-binding-and-attribute-directives.md)
 * [View Children and Content Children](view-children-and-content-children.md)
 * [@ViewInit and @Content life Cycle](viewinit-and-content-life-cycle.md)
-* Dynamic Component Creation
+* [Dynamic Component Creation](dynamic-component-creation.md)
 * Shared Modules
 * Featured Modules
 * Update Angular 4 to Angular 5
