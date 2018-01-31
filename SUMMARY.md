@@ -8,7 +8,6 @@
 * [Angular Environment Setup](angular-environment-setup.md)
 * [Architecture](architecture.md)
 * [Angular Hello World](angular-hello-world.md)
-* [ES6](es6.md)
 * [Angular TypeScript](angular-typescript.md)
 * [Angular Router](angular-router.md)
 * [Angular Router Resolver](angular-router-resolver.md)
