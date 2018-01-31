@@ -8,6 +8,7 @@
 * [Angular Environment Setup](angular-environment-setup.md)
 * [Angular Hello World](angular-hello-world.md)
 * [ES6](es6.md)
+* [Callback,Promise and Async-await](callback-promise.md)
 * [Angular Architecture](architecture.md)
 * [Angular Life Cycle and Hook methods](angular-life-cycle.md)
 * [Angular TypeScript](angular-typescript.md)
