@@ -25,7 +25,7 @@
 * [Angular Lazy Loading](angular-lazy-loading.md)
 * [ES6](es6.md)
 * [Built-In Directives](built-in-directives.md)
-* Custom Directives
+* [Custom Directives](custom-directives.md)
 * Reactive Programming Rxjs
 * Architecture
 * Dependency Injection & Providers
