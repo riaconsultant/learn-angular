@@ -6,6 +6,7 @@
 * [Angular CLI](angular-cli.md)
 * [Angular Bootstrap](angular-bootstrap.md)
 * [Angular Environment Setup](angular-environment-setup.md)
+* Architecture
 * [Angular Hello World](angular-hello-world.md)
 * [ES6](es6.md)
 * [Angular TypeScript](angular-typescript.md)
@@ -27,7 +28,7 @@
 * [Built-In Directives](built-in-directives.md)
 * Custom Directives
 * Reactive Programming Rxjs
-* Built-In Pipe and Custom Pipe
+* Architecture
 * Dependency Injection & Providers
 * Karma - Unit Testing
 * Templates and Data Binding
@@ -36,7 +37,6 @@
 * View Children and Content Children
 * @ViewInit and @Content life Cycle
 * Dynamic Component Creation
-* Architecture
 * Shared Modules
 * Featured Modules
 * Update Angular 4 to Angular 5
