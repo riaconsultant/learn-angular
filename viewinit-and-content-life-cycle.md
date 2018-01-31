@@ -1,2 +1,2 @@
-@ViewInit and @Content life Cycle
+# @ViewInit and @Content life Cycle
 

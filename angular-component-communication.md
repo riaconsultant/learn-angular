@@ -1,2 +1,2 @@
-Angular Component Communication
+# Angular Component Communication
 

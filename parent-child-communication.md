@@ -1,2 +1,2 @@
-Angular Component Parent-Child Communication
+# Angular Component Parent-Child Communication
 
