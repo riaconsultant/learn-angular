@@ -1,0 +1,1 @@
+# Angular Application life cycle and hook methods
