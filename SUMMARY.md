@@ -34,7 +34,7 @@
 * [Parent-Child Communication](parent-child-communication.md)
 * [Host Binding and Attribute Directives](host-binding-and-attribute-directives.md)
 * [View Children and Content Children](view-children-and-content-children.md)
-* @ViewInit and @Content life Cycle
+* [@ViewInit and @Content life Cycle](viewinit-and-content-life-cycle.md)
 * Dynamic Component Creation
 * Shared Modules
 * Featured Modules
