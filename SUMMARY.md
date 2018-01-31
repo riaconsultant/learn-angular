@@ -33,7 +33,7 @@
 * [Templates and Data Binding](templates-and-data-binding.md)
 * [Parent-Child Communication](parent-child-communication.md)
 * [Host Binding and Attribute Directives](host-binding-and-attribute-directives.md)
-* View Children and Content Children
+* [View Children and Content Children](view-children-and-content-children.md)
 * @ViewInit and @Content life Cycle
 * Dynamic Component Creation
 * Shared Modules
