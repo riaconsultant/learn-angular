@@ -32,7 +32,7 @@
 * [Karma - Unit Testing](karma-unit-testing.md)
 * [Templates and Data Binding](templates-and-data-binding.md)
 * [Parent-Child Communication](parent-child-communication.md)
-* Host Binding and Attribute Directives
+* [Host Binding and Attribute Directives](host-binding-and-attribute-directives.md)
 * View Children and Content Children
 * @ViewInit and @Content life Cycle
 * Dynamic Component Creation
