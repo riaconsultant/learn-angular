@@ -40,5 +40,5 @@
 * [Featured Modules](featured-modules.md)
 * [Update Angular 4 to Angular 5](update-angular-4-to-angular-5.md)
 * [Dynamic Title and MetaTag](dynamic-title-and-metatag.md)
-* Angular Build Optimizer Techniques
+* [Angular Build Optimizer Techniques](angular-build-optimizer-techniques.md)
 
