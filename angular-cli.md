@@ -1,8 +1,6 @@
 # Angular CLI
 
-Hi All,
-
-Today I am going to cover the Angular CLI useful command – I mostly cover all the command which is require to develop a application.
+Thease are command,which is use for multiple purposes from angular installation to till production release.
 
 npm install -g @angular/cli@<Version_Number> — Install Angular NPM globally
 
