@@ -3,8 +3,7 @@
 JavaScript ES6 have many new feature which makes developer life easy.
 
 1. ECMA 6 Specification
->1. <b>Constants</b> also known as <b>immutable variables</b> <br/>
-    -- can not re-assigned new constant.
+>1. <b>Constants</b> also known as <b>immutable variables</b> 
 >2. <b>Scoping</b>
 >>1. Block Scope Variables
 >>2. Block Scope Functions
@@ -18,7 +17,6 @@ JavaScript ES6 have many new feature which makes developer life easy.
 >5. <b>Class, Constructor, Extend</b>
 >6. <b>Modules</b>
 >7. <b>Enhanced Object Properties</b>
-
 >8. <b>Destructuring Assignment</b>
 >>1. Array Matching
 >>2. Object Matching Shorthand
