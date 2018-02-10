@@ -1,5 +1,5 @@
 # Update Angular 4 to Angular 5
-(https://flexmanu.files.wordpress.com/2018/02/screen-shot-2018-02-10-at-11-00-47-am.png)
+![Angular 4 to 5](https://flexmanu.files.wordpress.com/2018/02/screen-shot-2018-02-10-at-11-00-47-am.png)
 
 Need to add npm module, which will compare the package.json and check the online version of latest release of the build.
 
