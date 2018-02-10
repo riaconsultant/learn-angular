@@ -11,14 +11,20 @@ this will create auth.guard.ts and auth.guard.specs.ts. specs are unit testing j
 
 In the Module add guard in the providers
 
-<code>
+```
 import {AuthGuard} from './service/auth.guard'
 ....
 provider:[AuthGuard]
+```
+
 Auth.guard.ts
 
+```
 import { Injectable } from '@angular/core';
-import {Router,CanActivateChild,CanActivate, ActivatedRouteSnapshot, RouterStateSnapshot } from '@angular/router';
+import { 
+    Router,CanActivateChild,
+    CanActivate, ActivatedRouteSnapshot, 
+    RouterStateSnapshot } from '@angular/router';
 
 @Injectable()
 export class AuthGuard implements CanActivate,CanActivateChild {
@@ -32,23 +38,23 @@ next:ActivatedRouteSnapshot,
 state:RouterStateSnapshot):Observable<boolean> |Promise<boolean> |boolean {
 
 if(// Conditions){
-this.router.navigate(['/login']);
-return false;
-}
-returntrue;
+    this.router.navigate(['/login']);
+        return false;
+    }
+        returntrue;
 }
 canActivateChild(
 next:ActivatedRouteSnapshot,
 state:RouterStateSnapshot):Observable<boolean> |Promise<boolean> |boolean {
 
-if(// conditions ){
-this.router.navigate(['/login']);
-return false;
+    if(// conditions ){
+        this.router.navigate(['/login']);
+        return false;
+    }
+    return true;
+    }
 }
-return true;
-}
-}
-</code>
+```
 
 Guard has some defined method, can be authorization logic code based on our requirement, can implement one method and multiple methods.
 
@@ -59,7 +65,8 @@ Guard has some defined method, can be authorization logic code based on our requ
 5. Resolve
 This Guard always be used by the Router
 
-How to Apply on the router
+<b>How to Apply on the router</b>
 
-{path:"home", component:HomeComponent,canActivate:[AuthGuard]}
+```{path:"home", component:HomeComponent,canActivate:[AuthGuard]}```
+
 to access the home component user should pass the true condition of the guard. Then it will accessible otherwise it will auto-reject by the guard itself.
