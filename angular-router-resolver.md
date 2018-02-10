@@ -1,6 +1,7 @@
 # Angular Router Resolver
 
 ![Angular Router Resolver](https://flexmanu.files.wordpress.com/2018/01/screen-shot-2018-01-30-at-8-07-50-pm.png)
+
 In Module Router
 
 ```
@@ -49,7 +50,7 @@ this.userList = this.route.snapshot.data['users'];
 }
 ```
 
-Using Observable:
+2. Using Observable:
 
 ```
 import {ActivatedRouter} from '@angular/router';
