@@ -10,6 +10,7 @@ ng g guard service/auth
 this will create auth.guard.ts and auth.guard.specs.ts. specs are unit testing jasmine coded generated file. Just need to add some unit case scenario and code.
 
 In the Module add guard in the providers
+
 <code>
 import {AuthGuard} from './service/auth.guard'
 ....
