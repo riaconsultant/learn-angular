@@ -1,5 +1,6 @@
 # Angular CLI
 
+![Angular CLI Commands](https://flexmanu.files.wordpress.com/2018/01/screen-shot-2018-02-17-at-11-37-24-pm.png)
 Thease are command,which is use for multiple purposes from angular installation to till production release.
 
 npm install -g @angular/cli@<Version_Number> — Install Angular NPM globally
