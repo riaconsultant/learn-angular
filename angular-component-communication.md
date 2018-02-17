@@ -1,6 +1,6 @@
 # Angular Component Communication
 
-![Angular Component Communication](https://flexmanu.files.wordpress.com/2018/01/overview2.png)
+![Angular Component Communication](https://flexmanu.files.wordpress.com/2018/01/screen-shot-2018-02-17-at-11-26-22-pm.png)
 
 
 `@Input `: based on the property of parent component to child component. Information will flow and can access the property from top to bottom.
